@@ -69,6 +69,13 @@ The project uses the diamonds.csv dataset, which includes features like:
 7.Dimensions (X, Y, Z),
 8.Price
 
+## How to Run
+Download all the file in one folder
+1st run the .ipynb file it will create one .pkl modle file. Download it at same folder.
+Then, run the Diamond_price_prediction.py file 
+Then, in terminal type : streamlit run Diamond_price_prediction.py
+** NOTE: Required modules should be downloaded **
+
 #📜 License
 This project is licensed under the MIT License.
 Built for educational and demonstration purposes.
