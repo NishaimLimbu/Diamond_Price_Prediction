@@ -48,25 +48,25 @@ Use the following command to install all necessary packages:
 streamlit run Diamond_price_prediction.py
 
 # 🧠 Technologies Used
-1.Python 3
-2.Scikit-learn
-3.Joblib
-4.Pandas
-5.NumPy
-6.Matplotlib
-7.Seaborn
-8.Streamlit
+1.Python 3,
+2.Scikit-learn,
+3.Joblib,
+4.Pandas,
+5.NumPy,
+6.Matplotlib,
+7.Seaborn,
+8.Streamlit,
 9.Jupyter Notebook
 
 # 📈 Sample Dataset
 The project uses the diamonds.csv dataset, which includes features like:
-1.Carat
-2.Cut
-3.Color
-4.Clarity
-5.Depth
-6.Table
-7.Dimensions (X, Y, Z)
+1.Carat,
+2.Cut,
+3.Color,
+4.Clarity,
+5.Depth,
+6.Table,
+7.Dimensions (X, Y, Z),
 8.Price
 
 #📜 License
