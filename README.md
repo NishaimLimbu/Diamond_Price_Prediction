@@ -42,9 +42,7 @@ Diamond_Price_Prediction/
 ### 📦 Install Required Packages
 
 Use the following command to install all necessary packages:
-
-```bash
-pip install scikit-learn joblib numpy pandas matplotlib seaborn streamlit
+**pip install scikit-learn joblib numpy pandas matplotlib seaborn streamlit**
 
 **🚀 Run the Streamlit App**
 streamlit run Diamond_price_prediction.py
